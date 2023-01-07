@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/94215091?s=400&u=347c374abe7c82f3c9354cece73df3fcbff2dc56&v=4">
+<img src="https://avatars.githubusercontent.com/u/94215091?s=400&u=347c374abe7c82f3c9354cece73df3fcbff2dc56&v=4" style="border-radius:50%; border:2p solid black;">
 
 <h2> Hey there! I'm Shahbaz.</h2>
 
