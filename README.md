@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars.githubusercontent.com/u/94215091?s=400&u=347c374abe7c82f3c9354cece73df3fcbff2dc56&v=4">
 
 <h2> Hey there! I'm Shahbaz.</h2>
 
@@ -29,8 +29,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahbaz-alam7&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-alam7&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -44,4 +44,4 @@
 <a href="mailto:alamshahbaz287@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alamshahbaz287@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [shahbaz-alam7](https://github.com/shahbaz-alam7)
