@@ -11,13 +11,15 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![TypeScript.js](https://img.shields.io/badge/-TypeScript.js-333333?style=flat&logo=TypeScript.js)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=7248b6)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -43,7 +45,7 @@
 
 <a href="https://www.linkedin.com/in/mohd-shahbaz-alam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohd%20Shahbaz%20Alam-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mohd.shahbaz.alam"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohd.shahbaz.alam-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:itzshah07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alamshahbaz287@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:alamshahbaz287@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alamshahbaz287@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [shahbaz-alam7](https://github.com/shahbaz-alam7)
