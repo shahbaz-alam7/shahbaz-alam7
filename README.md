@@ -42,8 +42,8 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohd-shahbaz-alam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohd%20Shahbaz%20Alam-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/its_shah_9"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-its_shah_9-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:itzshah07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-itzshah07@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/mohd.shahbaz.alam"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohd.shahbaz.alam-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:itzshah07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alamshahbaz287@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [shahbaz-alam7](https://github.com/shahbaz-alam7)
